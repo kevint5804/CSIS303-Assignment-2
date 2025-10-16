@@ -1,6 +1,5 @@
 The first part uses a linked list to store animal names and the second part uses a stack to store numbers.
 
-Single linked list
 The user will be able to see how the animal list changes step by step and demonstrate the different functions.
 Explanation of the single linked list functions:
 push_front adds a new animal to the front of the list
@@ -14,7 +13,6 @@ front shows the first animal in the list
 back shows the last animal in the list
 empty checks if there are any animals on the list
 
-Stack
 The user will also see the creation of a stack with integers utilizing vectors that demonstrate different functions.
 Explanation of the stack functions:
 push adds a number to the top of the stack
@@ -22,7 +20,7 @@ pop removes the number on top of the stack
 top shows the number on top of the stack
 average calculates the average of the numbers in the stack
 print shows all the numbers in the stack going from bottom to top
-empty checks if there are any number in the stack
+empty checks if there are any numbers in the stack
 
 INSTRUCTIONS
 When the program starts, it will create a list and check if it is empty. Follow the prompts:
